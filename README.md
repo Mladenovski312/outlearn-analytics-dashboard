@@ -1,6 +1,6 @@
-# Outlearn — Student Engagement Analytics
+# Outlearn — Engagement Analytics
 
-Team entry in a 48-hour data analytics hackathon for **Outlearn (Nu High School)**, an online education platform. Built a PowerBI dashboard tracking course performance, review sentiment, and student view patterns across the platform. The Outlearn team issued a letter of recommendation for our submission. PDF under `recommendation/`.
+PowerBI engagement analytics dashboard delivered for **Outlearn (Nu High School)**, an online education platform, in a 48-hour delivery window. The dashboard tracks course performance, review sentiment, and learner view patterns across the platform. The Outlearn team issued a letter of recommendation for the submission. PDF under `recommendation/`.
 
 ## Stack
 
@@ -22,7 +22,7 @@ Team entry in a 48-hour data analytics hackathon for **Outlearn (Nu High School)
 - Course catalog with subject, professor, and pricing metadata
 - Review log with per-course rating history
 - View log with timestamps for time-series analysis
-- Enrollment and progress tables for student activity
+- Enrollment and progress tables for learner activity
 - Newsletter unsubscribe events
 - Data model documented in `docs/schema.svg`
 
